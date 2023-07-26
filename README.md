@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Beautysalon é um site para um salão de cabeleireiro.
+Beautysalon é um site designado para cabeleireiro.
 
 - [Acesse o projeto finalizado, online](https://diego2k22.github.io/Beautysalon/)
 
